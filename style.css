@@ -1,0 +1,35 @@
+body { 
+
+}
+
+#junk{
+  background-color:white;
+  margin:150px;
+  padding-bottom:24px;
+  padding-top:24px;
+  padding left:24px;
+  border-radius:12px;
+  border-color:black;
+  text-align:right;
+}
+
+h1{ 
+ text-align:center;  
+}
+
+button {
+  text-align:center;
+}
+div{
+  text-align:center;
+}
+#quote-block{
+  font-size:24px;
+  font-weight:bold;
+  text-align:justify;
+  
+}
+#more{
+  font-weight:bold;
+  width:100px;
+}
